@@ -8,6 +8,7 @@ Day 20
 3. Create the snake food
  
 Day 21
+
 5. Detect the collision with food
 6. Create a scoreboard
 7. Create a collisionwith wall
