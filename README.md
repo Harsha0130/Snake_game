@@ -5,7 +5,7 @@ Steps of the project:
 Day 20
 1. Create a snake body
 2. Move the snake
-3. Create the snake food
+3. Create the snake food (1. Dividing into packages snake.py and main.py ) 
  
 Day 21
 
