@@ -18,5 +18,5 @@ class Food(Turtle):
         color = random.choice(colors)
         self.color(color)
         random_x = random.randint(-280, 280)
-        random_y = random.randint(-280, 280)
+        random_y = random.randint(-280, 270)
         self.goto(random_x, random_y)
