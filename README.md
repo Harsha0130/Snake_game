@@ -15,5 +15,6 @@ Day 21
 8. Detect collision with tail
 
 Day 24
+
 9. Adding High score to game
 10. Saving high score in a file
