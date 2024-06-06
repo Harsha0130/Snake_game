@@ -13,3 +13,8 @@ Day 21
 6. Create a scoreboard
 7. Create a collisionwith wall
 8. Detect collision with tail
+
+Day 24
+
+9. Adding High score to game
+10. Saving high score in a file
